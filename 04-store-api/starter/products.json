@@ -1,6 +1,6 @@
 [
   {
-    "name": "accent chair",
+    "name": "accentchair",
     "price": 25,
     "company": "marcos",
     "rating": 4
@@ -47,7 +47,7 @@
     "company": "caressa"
   },
   {
-    "name": "high-back bench",
+    "name": "high",
     "price": 39,
     "featured": true,
     "company": "ikea"
